@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSExercises
 {
-    public class Ex01
+    public class Ex01b
     {
-        public static void Main (string[] args)
+        public static void main (string[] args)
         {
             Console.WriteLine("Good Mornng");
 

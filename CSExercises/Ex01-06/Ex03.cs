@@ -8,9 +8,17 @@ namespace CSExercises
 {
     public class Ex03
     {
-        public static void Main(string[] args)
+        public static void Main(string [] args)
         {
-            
+            double A, B;
+            //B = A * A;
+
+
+      
+            Console.WriteLine("enter A");
+            A = Convert.ToDouble(Console.ReadLine());
+            B = A * A;
+            Console.WriteLine("B");
         }
     }
 }
