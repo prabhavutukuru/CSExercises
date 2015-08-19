@@ -11,7 +11,8 @@ namespace CSExercises
         public static void Main (string[] args)
         {
             Console.WriteLine("Good Mornng");
-
+          string  name =" Prabha";
+            Console.WriteLine("Good morning " +name);
         }
     }
 }
