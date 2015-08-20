@@ -11,7 +11,7 @@ namespace CSExercises
         public static void Main(string[] args)
         {
             int s;
-            double h, t;
+           // double h, t;
 
             Console.WriteLine("enter salary:");
             s = Convert.ToInt32(Console.ReadLine());
