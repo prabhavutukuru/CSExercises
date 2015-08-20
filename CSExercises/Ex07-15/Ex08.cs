@@ -10,6 +10,14 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
+            int C;
+            Console.WriteLine("Enter C ");
+            C = Convert.ToInt32(Console.ReadLine());
+             double  F;
+            F = 1.8 * C + 32;
+            Console.WriteLine(F);
+
+
             
         }
     }
