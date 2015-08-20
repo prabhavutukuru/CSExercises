@@ -18,7 +18,8 @@ namespace CSExercises
             Console.WriteLine("enter A");
             A = Convert.ToDouble(Console.ReadLine());
             B = A * A;
-            Console.WriteLine("B");
+            Console.Write("Square of double no\t");
+            Console.WriteLine(B);
         }
     }
 }

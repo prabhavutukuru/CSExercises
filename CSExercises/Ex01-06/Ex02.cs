@@ -11,7 +11,7 @@ namespace CSExercises
         public static void Main(string[] args)
         {
             int A, B;
-                Console.Write("Enter A :  ");
+                Console.Write("Enter a number :  ");
             A = Convert.ToInt32(Console.ReadLine()); 
             B = A * A;
             Console.WriteLine("square of  A is {0}", B);
