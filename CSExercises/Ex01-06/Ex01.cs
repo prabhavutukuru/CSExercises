@@ -13,15 +13,8 @@ namespace CSExercises
             Console.WriteLine("Good Mornng");
           string  name ="Prabha";
             Console.WriteLine("Good morning " +name);
-            if (name =="Prabha")
-            {
-                Console.WriteLine("F");
-            }
-            else
-            {
-                Console.WriteLine("M");
-
-            }
+  
+   
         }
     }
 }
