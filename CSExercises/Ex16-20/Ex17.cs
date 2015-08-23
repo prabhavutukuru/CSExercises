@@ -17,14 +17,8 @@ namespace CSExercises
             str = (string)Console.ReadLine();
             Console.WriteLine("Enter age");
             age = Convert.ToInt32(Console.ReadLine());
-
-
-
             Console.WriteLine("Enter gender");
             gen = (char)Console.Read();
-
-           
-
             if (age >= 40 )
             {
                 if (gen == 'M')
